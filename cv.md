@@ -1,8 +1,8 @@
 # Abykeev Daniiar
 ----------------------------------------
-phone: +996 505 777 437
-email: daniarabykeev@gmail.com
-GitHub: https://github.com/daniarabykeev
+* phone: +996 505 777 437
+* email: daniarabykeev@gmail.com
+* GitHub: https://github.com/daniarabykeev
 -----------------------------------------
 
 
