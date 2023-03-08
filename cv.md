@@ -9,14 +9,13 @@
 
 
 ----------------
-## About myself
-:
-    ### My goals
-        My goal is to thoroughly learn JavaScript and get a well-paid job in an IT company.
-    ### Work experience
-        in 2022, I opened my own IT company, implemented several commercial projects. 
-        But, after working for several months, I had to close, because there were no orders, 
-        there was nothing to pay the rent for the office space.
+## About myself:
+### My goals
+    My goal is to thoroughly learn JavaScript and get a well-paid job in an IT company.
+### Work experience
+    in 2022, I opened my own IT company, implemented several commercial projects. 
+    But, after working for several months, I had to close, because there were no orders, 
+    there was nothing to pay the rent for the office space.
     
     
 ------------
