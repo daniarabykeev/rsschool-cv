@@ -56,7 +56,7 @@ repeatStr(3, "i")
 ## Education
 2022
 :   **Maker's bootcamp** Front-End Dev
-    *JavaScript/React
+    *JavaScript/React*
 
 2005-2010
 :   **Kyrgyz National University** Institute of Integration International Educational Programs
@@ -65,5 +65,5 @@ repeatStr(3, "i")
 
 -------------------------
 ## English language level
-*Advanced
+*Advanced*
      
