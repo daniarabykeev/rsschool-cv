@@ -1,7 +1,7 @@
 # Abykeev Daniiar
 ----------------------------------------
-email: daniarabykeev@gmail.com
 phone: +996 505 777 437
+email: daniarabykeev@gmail.com
 GitHub: https://github.com/daniarabykeev
 -----------------------------------------
 
@@ -26,6 +26,8 @@ GitHub: https://github.com/daniarabykeev
 6. Git
 7. Scrum methodology
 8. Figma
+9. Adobe PhotoShop
+10. Adobe CorelDraw
 
 
 ------------------
